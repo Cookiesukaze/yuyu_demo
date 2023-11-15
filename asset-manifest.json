@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yuyu_demo/static/css/main.fc5c2c69.css",
-    "main.js": "/yuyu_demo/static/js/main.93da2a8a.js",
+    "main.js": "/yuyu_demo/static/js/main.7e8f5b4e.js",
     "index.html": "/yuyu_demo/index.html",
     "main.fc5c2c69.css.map": "/yuyu_demo/static/css/main.fc5c2c69.css.map",
-    "main.93da2a8a.js.map": "/yuyu_demo/static/js/main.93da2a8a.js.map"
+    "main.7e8f5b4e.js.map": "/yuyu_demo/static/js/main.7e8f5b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
-    "static/js/main.93da2a8a.js"
+    "static/js/main.7e8f5b4e.js"
   ]
 }
