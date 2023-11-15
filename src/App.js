@@ -2,6 +2,8 @@ import React, { useEffect, useRef } from "react";
 import "./styles.css";
 import {Message, useMessages} from "@chatui/core";
 import { nanoid } from 'nanoid';
+import ReactDOM from 'react-dom';
+ReactDOM.render(<App />, document.getElementById('root'));
 
 export default function App() {
   const wrapper = useRef();
