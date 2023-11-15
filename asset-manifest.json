@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yuyu/static/css/main.fc5c2c69.css",
+    "main.js": "/yuyu/static/js/main.1a668b28.js",
+    "index.html": "/yuyu/index.html",
+    "main.fc5c2c69.css.map": "/yuyu/static/css/main.fc5c2c69.css.map",
+    "main.1a668b28.js.map": "/yuyu/static/js/main.1a668b28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.1a668b28.js"
+  ]
+}
